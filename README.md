@@ -10,6 +10,9 @@
   <img align="center" alt="Felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://user-images.githubusercontent.com/83374517/167104013-cb4b9ea0-212e-4f69-8901-2a2061f8960b.png">
+  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://user-images.githubusercontent.com/83374517/167104159-f5f6c79a-a158-4180-bc55-392df580b278.png">
+  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://firebase.google.cn/images/brand-guidelines/logo-vertical.png?hl=pt-br">
 </div>
   
   ##
