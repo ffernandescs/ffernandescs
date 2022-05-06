@@ -14,6 +14,10 @@
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://user-images.githubusercontent.com/83374517/167104159-f5f6c79a-a158-4180-bc55-392df580b278.png">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://firebase.google.cn/images/brand-guidelines/logo-vertical.png?hl=pt-br">
 </div>
+  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://user-images.githubusercontent.com/83374517/167104622-e1646bc6-1bab-4676-8eac-b3aca28b5075.png">
+</div>
+<img align="center" alt="Felipe-CSS" height="30" width="40" src="https://user-images.githubusercontent.com/83374517/167104766-9c72b9c0-4889-40f7-8feb-953847e3262d.png">
+</div>
   
   ##
  
