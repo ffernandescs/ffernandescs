@@ -30,6 +30,9 @@
    <a  href="mailto:f.fernandescs@gmail.com" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=E4405F&logoColor=white&labelColor=&style=&for-the-badge" height="35"      alt="instagram logo"  />
   </a>
+  <a href="https://wa.me/5581982294247" target="blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="+55 81 982294247"/>
+  </a>
 </div>
 
 
