@@ -1,33 +1,46 @@
 
-## Olá! Eu sou o Felipe Fernandes 🖐️
-<div align="left">
-  <a href="https://github.com/ffernandescs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ffernandescs&show_icons=true&theme=dracula"/>
-  
+<h1 align="center"> Olá! Eu sou o Felipe Fernandes 🖐️</h1>
+
+<div align="center"> 
+<h3>  Linguagens, tecnologias e ferramentas que utilizo atualmente :flags: </h3>
+<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://user-images.githubusercontent.com/83374517/167104013-cb4b9ea0-212e-4f69-8901-2a2061f8960b.png">
-  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://user-images.githubusercontent.com/83374517/167104159-f5f6c79a-a158-4180-bc55-392df580b278.png">
-  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://firebase.google.cn/images/brand-guidelines/logo-vertical.png?hl=pt-br">
+<br>
+
+<div align="center">
+  <h3> Além do Github, você pode me encontrar em :iphone: </h3>
+  <br>
+  <a  href="https://www.linkedin.com/in/felipefcs" target="_blank">
+     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a  href="https://www.linkedin.com/in/felipefcs" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35"      alt="instagram logo"  />
+  </a>
+   <a  href="mailto:f.fernandescs@gmail.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=E4405F&logoColor=white&labelColor=&style=&for-the-badge" height="35"      alt="instagram logo"  />
+  </a>
 </div>
-  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://user-images.githubusercontent.com/83374517/167104622-e1646bc6-1bab-4676-8eac-b3aca28b5075.png">
+
+
+<div align="center">
+<h3> Um pouco de minha contribuição como Dev (GitHub Stats) :computer:</h3>
+<br>
+<a href="https://github.com/ffernandescs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ffernandescs&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffernandescs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<img align="center" alt="Felipe-CSS" height="30" width="40" src="https://user-images.githubusercontent.com/83374517/167104766-9c72b9c0-4889-40f7-8feb-953847e3262d.png">
+<div align="center">
+  <img src="https://github.com/henriqueburgos/henriqueburgos/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://api.whatsapp.com/send?phone=5581982294247" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/felipe.fernandes.cs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:f.fernandescs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipefcs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
