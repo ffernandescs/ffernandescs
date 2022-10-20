@@ -16,6 +16,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
 </div>
+
+##
 <br>
 
 <div align="center">
@@ -35,13 +37,14 @@
   </a>
 </div>
 
+##
 
 <div align="center">
 <h3> Um pouco de minha contribuição como Dev (GitHub Stats) :computer:</h3>
 <br>
 <a href="https://github.com/ffernandescs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ffernandescs&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffernandescs&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ffernandescs&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffernandescs&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center">
   <img src="https://github.com/henriqueburgos/henriqueburgos/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
